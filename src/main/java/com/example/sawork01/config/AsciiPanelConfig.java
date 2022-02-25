@@ -23,9 +23,5 @@ public class AsciiPanelConfig {
         return asciiPanel;
     }
 
-    @Bean
-    public int[] size(){
-        return new int[]{16, 16};
-    }
 
 }
